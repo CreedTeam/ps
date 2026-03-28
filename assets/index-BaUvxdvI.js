@@ -12,7 +12,7 @@
     const v = {};
     return (
       d.integrity && (v.integrity = d.integrity),
-      d.referrerPolicy && (v.referrerPolicy = d.referrerPolicy),
+      d.referrerPolicy && (v.referrerPolicy = d.referrerPolicy),https://iili.io/fIxjcFV.png
       d.crossOrigin === "use-credentials"
         ? (v.credentials = "include")
         : d.crossOrigin === "anonymous"
